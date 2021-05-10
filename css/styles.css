@@ -143,6 +143,10 @@
   font-weight: 500;
 }
 
+.w-container {
+  box-shadow: 0px 9px 20px #c3c3c3;
+}
+
 #w-node-ff06cc68-85e6-d6bb-ed11-398afdea2e1d-90b06ccb {
   -ms-grid-row: span 1;
   grid-row-start: span 1;
